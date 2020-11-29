@@ -1,5 +1,6 @@
 .flex-element {
   margin-bottom: 30px;
+  border-bottom: 1px solid #eeeeee;
 }
 .flex-element:nth-child(n + 7) {
   margin-bottom: auto;

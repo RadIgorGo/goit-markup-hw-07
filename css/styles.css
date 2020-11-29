@@ -321,9 +321,7 @@ img {
 .table-app {
   list-style: none;
 }
-.list {
-  /* margin: auto; */
-}
+
 .list-menu,
 .list-nav,
 .list-app,
@@ -532,7 +530,7 @@ img {
   margin-bottom: 30px;
   padding-bottom: 20px;
   background-color: var(--white);
-  border: 1px solid #eeeeee;
+  border: 1px solid black;
 }
 
 .project-name {
